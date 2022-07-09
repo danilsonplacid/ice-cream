@@ -1,4 +1,4 @@
-# Ice Cream Builder - React JS Starter Application
+# Project Builder - React JS Starter Application
 
 A basic template that consists of the essential elements that are required to start building a React application using [create-react-app](https://github.com/facebook/create-react-app).
 
